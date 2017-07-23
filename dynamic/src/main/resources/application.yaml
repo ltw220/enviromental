@@ -1,0 +1,11 @@
+filters:
+  - name: filter1
+  - name: filter2
+stuff:
+  addresses:
+    - address:
+        line1: "aaaaaa"
+        postCode: "AB1 1AB"
+    - address:
+        line1: "bbb"
+        postCode: "BA2 2 BA"
